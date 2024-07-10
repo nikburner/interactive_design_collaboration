@@ -762,8 +762,4 @@ export const PinnedThread = ({ thread, onFocus, ...props }: Props) => {
 
 </details>
 
-## <a name="links">🔗 Links</a>
-
-- [Assets](https://drive.google.com/file/d/17tRs0sEiIsCeTYEXhWEdHMrTshuz2oYf/view?usp=sharing)
-- [Components](https://drive.google.com/file/d/1bha-40vlGMIPW9bTRUgHD_SEmT9ZA38S/view?usp=sharing)
 
