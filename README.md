@@ -1,5 +1,5 @@
-
-
+## <a name="introduction">🤖 Introduction</a>
+A collaborative design-making web application to show how to add real-world features like live collaboration with cursor chat, comments, reactions, and drawing designs (shapes, image upload) on the canvas using fabric.js.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
