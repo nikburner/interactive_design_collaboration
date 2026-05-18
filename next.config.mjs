@@ -9,15 +9,6 @@ const nextConfig = {
     // config.infrastructureLogging = { debug: /PackFileCache/ };
     return config;
   },
-  images: {
-    remotePatterns: [
-      {
-        protocol: "https",
-        hostname: "liveblocks.io",
-        port: "",
-      },
-    ],
-  },
   typescript: {
     ignoreBuildErrors: true,
   },
